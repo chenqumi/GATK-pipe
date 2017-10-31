@@ -81,7 +81,7 @@ perl GATK_pipe.pl <ref.fa> <fq.lst>
      
 fq.lst format:
     SAM_1 /path/sample1_R1.fq.gz
-    SAM_1 /path/sample1_R2.fq.gz
+    SAM_1 /path/sample2_R2.fq.gz
     SAM_2_batch /path/sample2_R1.fq.gz
     SAM_2_batch /path/sample2_R2.fq.gz
     SAM_3_batchN /path/sample3_R1.fq.gz
